@@ -1,0 +1,4 @@
+aisexplorer
+requests
+APScheduler
+tzlocal==2.1
